@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Akumtoshi:9856102609@cluster0-abnpf.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "05fec59a6fac644b08b0",
+  "githubSecret": "5265e42b5f4e701c8bff162d404cb19efc406c5b"
+}
